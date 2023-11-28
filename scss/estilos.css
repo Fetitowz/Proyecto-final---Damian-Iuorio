@@ -214,6 +214,10 @@ footer {
   color: rgb(156, 11, 11);
 }
 
+p {
+  color: white !important;
+}
+
 #asoc {
   background-color: rgb(9, 9, 88);
   color: rgb(156, 11, 11);
